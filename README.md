@@ -79,3 +79,9 @@ I wanted a lightweight screenshot workflow that:
 - provides audible feedback when the capture completes
 
 This script was created to solve that workflow on Linux.
+
+---
+## Credits
+- [scrot](https://github.com/resurrecting-open-source-projects/scrot/releases)
+- [xclip](https://github.com/astrand/xclip)
+- paplay
