@@ -9,7 +9,7 @@ A simple Bash script that:
 - Automatically copies the screenshot to the clipboard using xclip
 - Plays a notification sound when complete
 
-![[scrot-copy-code.png]]
+![scrot-copy-code](./readme_assets/scrot-copy-code.png)
 
 ---
 ## Requirements
